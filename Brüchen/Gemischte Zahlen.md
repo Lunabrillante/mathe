@@ -15,6 +15,7 @@ Das Additionszeichen wird zwischen ganzer Zahl und Bruch wegglassen.
 Den Wert der gemischten Zahl können wir wie folgt ermitteln:
 
 Beispiel:
+
 $$
 5\frac{1}{2} = 5+\frac{1}{2} = 5,5
 $$
