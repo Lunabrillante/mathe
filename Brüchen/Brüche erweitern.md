@@ -4,7 +4,7 @@
 
 ## Zusammenfassung
 
-Beim Erweitern von Brüchen werden Zähler und Nenner mit der gleichen Zahl multlipliziert, als Beispiel:
+Beim Erweitern von Brüchen werden Zähler und Nenner mit der gleichen Zahl multlipliziert, als Beispiel
 
 $$
 \frac{2}{5} = \frac{2*3}{5*3} = \frac{6}{15}
