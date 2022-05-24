@@ -1,7 +1,5 @@
 # Kürzen von Brüchen
 
----
-
 ## Zusammenfassung 
 
 Beim kürzen von Brüchen werden Nenner und Zähler mit der gleichen Zahl dividiert, zum Beispiel:
