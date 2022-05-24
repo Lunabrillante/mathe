@@ -4,7 +4,7 @@
 
 ## Zusammenfassung 
 
-Beim kürzen von Brüchen werden Nenner und Zähler mit der gleichen Zahl dividiert, zum Beispiel
+Beim kürzen von Brüchen werden Nenner und Zähler mit der gleichen Zahl dividiert, zum Beispiel:
 
 $$
 \frac{24}{30} = \frac{24 : 6}{30 : 6} = \frac{4}{5}
