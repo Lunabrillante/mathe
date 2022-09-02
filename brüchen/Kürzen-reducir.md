@@ -2,7 +2,7 @@
 
 ## Concepto
 
-Como vimos anteriormente en erweitern, cuando cortamos la pizza en mas trozos los trozos se hacen mas pequeños y hay mas trozos.Para que el trozo que cogemos tenga la misma cantidad y peso que los demás trozos, tenemos que ampliar la fracción que corresponde al trozo que hemos cogido.Recordamos que $\frac{1}{4}$ se convertía en $\frac{2}{8}$.
+Como vimos anteriormente en [erweitern (ampliar)](erweitern-ampliar.md), cuando cortamos la pizza en mas trozos los trozos se hacen mas pequeños y hay mas trozos.Para que el trozo que cogemos tenga la misma cantidad y peso que los demás trozos, tenemos que ampliar la fracción que corresponde al trozo que hemos cogido.Recordamos que $\frac{1}{4}$ se convertía en $\frac{2}{8}$.
 
 si el caso que tenemos es el contrario, es decir ahora tendremos una pizza con menos cortes, debemos de **reducir** la fracción.
 
