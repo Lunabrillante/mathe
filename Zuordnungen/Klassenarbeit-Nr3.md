@@ -37,6 +37,8 @@ Für ________________ Zuordnungen gilt: Das Doppelte wird der ________, das Drei
 
 4. Zeichne zur folgenden Tabelle einen graphen!
 
+![Tabelle8](./images/Tabelle8.png)
+
 5. Berechne die fehlenden Werte! Nutze und zeichne die Pfeile ein! (Proportionale Zuordnungen)
 
 ![Tabellen3-4](./images/Tabellen3-4.png) 
